@@ -1,0 +1,15 @@
+div{
+    background-color: rgb(145, 255, 10);
+    color: #ef1515;
+}
+.quote {
+    font-family: "verdana","gillsans";
+    color: blue;
+}
+span#author{
+    text-transform: uppercase;
+    color: black;
+}
+#mandatory{
+    text-transform: uppercase;
+}
