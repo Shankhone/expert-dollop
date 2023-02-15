@@ -1,15 +1,33 @@
-div{
-    background-color: rgb(145, 255, 10);
-    color: #ef1515;
+div {
+    background: rgb(119, 227, 249);
+    background: linear-gradient(90deg, rgba(119, 227, 249, 1) 0%, rgba(55, 44, 255, 1) 100%);
+    color: #000000;
 }
+
+
 .quote {
-    font-family: "verdana","gillsans";
-    color: blue;
+    font-family: "verdana", "gillsans";
+    border: 20px solid blue;
+    padding: 13px 13px 13px 20px;
+    margin: 10px auto;
+    color: rgb(23, 23, 23);
 }
-span#author{
+
+span#author {
     text-transform: uppercase;
     color: black;
 }
-#mandatory{
+
+#mandatory {
     text-transform: uppercase;
+}
+
+#skills ol li {
+  
+    color: purple;
+}
+
+#skills1 ul li {
+    
+    color: blue;
 }
